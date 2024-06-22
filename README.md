@@ -1,2 +1,2 @@
-# repositorio
-este es mi primer commodite
+ repositorio
+este es mi primer comodit
